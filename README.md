@@ -1,4 +1,3 @@
-﻿# Human-Following-Robot-using-Arduino-and-Ultrasonic-Sensor
 # Human-Following-Robot-using-Arduino-and-Ultrasonic-Sensor 🤖🔵
 
 ## Modes of Operation 🔄
